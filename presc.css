@@ -1,0 +1,21 @@
+.presc {
+	cursor: crosshair;
+}
+h1 {
+       color: 0064ff;
+       font-family: cursive;
+}
+h4 {
+        color: #FF0000 ;
+       font-family: cursive;
+}
+p {
+	color: #00CC33;
+	font-family:monospace;
+	
+	background-repeat: repeat;
+}
+h3 {
+       color: #6600FF; 
+       font-family:monospace;
+}
